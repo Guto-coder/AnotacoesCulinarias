@@ -1,4 +1,5 @@
 # AnotacoesCulinarias
+"O melhor app para suas anotações culinárias"
 # Descrição: 
 Precisando de um app para anotar suas receitas culinárias ? temos uma solução para você. No Anotações Culinárias você pode anotar suas receitas passo a passo, desde modo de preparo até observações. O app é totalmente gratuito, não possui pagamentos nem anúncios e você pode anotar quantas receitas quiser, sem limitações. Perfeito pra você que cozinha todo dia mas não tem um lugar ideal para anotar suas próprias receitas.
 
